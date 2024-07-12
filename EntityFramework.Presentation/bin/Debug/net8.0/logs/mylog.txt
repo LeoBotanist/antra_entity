@@ -1,0 +1,10 @@
+2024-07-11 23:43:31.745 -04:00 [INF] Application Started
+2024-07-11 23:43:31.749 -04:00 [DBG] This is a debug message
+2024-07-11 23:44:07.329 -04:00 [INF] Application Started
+2024-07-11 23:44:07.333 -04:00 [DBG] This is a debug message
+2024-07-11 23:44:21.374 -04:00 [INF] Application Started
+2024-07-11 23:44:21.378 -04:00 [DBG] This is a debug message
+2024-07-11 23:44:40.209 -04:00 [INF] Application Started
+2024-07-11 23:44:40.213 -04:00 [DBG] This is a debug message
+2024-07-11 23:46:52.155 -04:00 [INF] Application Started
+2024-07-11 23:46:52.158 -04:00 [DBG] This is a debug message

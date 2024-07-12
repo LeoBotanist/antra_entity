@@ -1,0 +1,17 @@
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.deps.json
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.runtimeconfig.json
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.dll
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Infrastructure.pdb
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Core.dll
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/bin/Debug/net8.0/EntityFramework.Core.pdb
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.csproj.AssemblyReference.cache
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.AssemblyInfoInputs.cache
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.AssemblyInfo.cs
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFr.C7757ED8.Up2Date
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.dll
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/refint/EntityFramework.Infrastructure.dll
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.pdb
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/EntityFramework.Infrastructure.genruntimeconfig.cache
+/Users/toimagine/antraCS/Entity/EntityFramework.Infrastructure/obj/Debug/net8.0/ref/EntityFramework.Infrastructure.dll

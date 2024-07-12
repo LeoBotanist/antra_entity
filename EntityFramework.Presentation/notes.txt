@@ -1,0 +1,95 @@
+Dapper: .NET micro ORM
+
+ORM: Object Relational Mapping/Mapper, responsible for mapping between database tables
+and .Net objects
+
+
+Traditional ORM: mapping, also generates sql queries, generates migration files on changes
+Micro ORM: no migration, no queries, focus on fast mapping between db tables and objcts
+fast, light weight, easy to use
+
+WTF is entity framework?
+
+dapper will provide extension methods to yhr IDbConnection interface:
+1.  execute(): insert, update, delete
+2.  query()): select
+
+IDbConnection:  open connection to the datasource, contains a property called
+                connectionString
+                
+SqlConnection class implements IDbConnection interface, represents the connection
+to our sql server db
+
+LINQ can be used with ORM, traditional ORM like Entity framework
+
+.Core: foundation of whole application, entities & interfaces
+
+Data folder, connection to db, Repositories using which talk to db, implement methods in infrastructure
+
+packages to install: 
+1.  Dapper
+2.  Sql.Data.SqlClient
+3.  Microsoft.Extensions.Configuration.Json
+
+
+--------    Entity framework
+out of memory data source
+
+Dapper: SQL statements
+Entity: no knowledge of SQL, just use LINQ
+ORM, supports migration, generate db using C# code
+code-first approach and database-first approach
+
+more low-level db access, use Dapper, greater control over performance
+inefficient LINQ query
+when using LINQ, could generate inefficient SQL query
+complex query, use Dapper
+
+promise, fetch API, XHR
+Dapper: create connection, IDBConnection, writing db 
+Entity abstract these methods
+
+Code-first approach: create a db, not table, db from scratch, schema: generated from class and relationships,
+will generate migration files.
+
+DB-first approach: create entities based on db columns, used for existing db.
+
+EFCore.Design: design utilities, support dotnet-ef tool
+
+single one ModelSnapshot
+
+DbContext is important
+
+
+    Controller: where http requests and res are handled
+==> Services contain biz logic, confidential info
+==> Repositories layer: talks to db
+==> data access layer (entity framework/dapper)
+
+In ResponseModel, another property: assign sth?
+
+
+
+Serilog: thid part library for logging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

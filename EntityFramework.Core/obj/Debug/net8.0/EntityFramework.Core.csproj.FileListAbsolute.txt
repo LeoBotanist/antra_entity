@@ -1,0 +1,14 @@
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.deps.json
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.runtimeconfig.json
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.dll
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/bin/Debug/net8.0/EntityFramework.Core.pdb
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.csproj.AssemblyReference.cache
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.AssemblyInfoInputs.cache
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.AssemblyInfo.cs
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.csproj.CoreCompileInputs.cache
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.dll
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/refint/EntityFramework.Core.dll
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.pdb
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/EntityFramework.Core.genruntimeconfig.cache
+/Users/toimagine/antraCS/Entity/EntityFramework.Core/obj/Debug/net8.0/ref/EntityFramework.Core.dll
